@@ -1,5 +1,7 @@
 # The uniSpool project
 
+![Image](logo.png)
+
 ## Motivation
 
 I never cared much about filament spools for 12 years of 3d printing. But then I opened the box of pandora when buying Bambulab 3D printers with their AMS multimaterial systems in 2022.. From then I was constantly running into issues when I was able to aquire 2,5 kg spools on a cheap, or decided to use just cross brand everything I was interested in.
